@@ -1,0 +1,32 @@
+.navbar-default {
+    background-image: linear-gradient(to bottom,#ffff 0,#ffff 100%);
+}
+.jumbotron {
+    background-color: #8fd8d2;
+}   
+.btn-primary {
+    background-image: linear-gradient(to bottom,#8fd8d2 0#8fd8d2 100%);
+}
+.h1{
+    font-style: oblique;
+}
+.col-md-4{
+    background-color: #fedce2;
+}
+.col-md-13{
+    background-color: #fedce2;
+}
+a.list-group-item, button.list-group-item {
+    color: #c63632;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #df744a;
+    background-color: #fff;
+}
+.small{
+    color: #dcb239;
+}
